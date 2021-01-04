@@ -1,0 +1,46 @@
+method scope
+naming variable: descriptive, sensible, concise 
+
+scope variable:
+all variables are not same in a program.
+
+make at least three example of each showing local vars declared outside of the method and inside of the method.
+
+truthiness: 
+1: control flow
+2: truthy and falsey value
+3: double bang operator
+
+ruby true, false
+python True, false
+objective C yes, NO 
+
+BOOLEAN VALUE: its the true and false itself which helps in control flow.
+control flow:do this if this
+ 
+ if im hungry then i will eat
+
+ ruby false truthy and falsey term
+
+ in ruby zero and nil are false, the rest are all true
+
+ boolean and comparison
+
+why boolean value
+using boolean value operator
+using comparison value operator.
+ && amperson sign # retrurns true when both are true 
+ 
+ || double pipe 
+
+ git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:shah2889/9-00-EST-CLASS.git
+git push -u origin main
+                
+
+
+
+
