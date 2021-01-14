@@ -15,7 +15,16 @@
 #  end
 
 
+array = ["ahmad", "monir", "nawid"]
+def comma(array)
+if array.length == 2 
+    puts "#{array[0]} and #array #{array[1]}"
+elsif array.length > 2
+    array[-1].insert(0, "and")
+end
+puts array.join(", ")
+end
 
-
+comma(array)
 
 
