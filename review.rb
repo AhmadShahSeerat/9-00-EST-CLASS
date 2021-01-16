@@ -1,19 +1,14 @@
-arr = [1,2,5,20,43,3,4]
+def three_times
+    puts "hi"
 
-# puts arr.push << 55
+    yield if block_given?
+    yield if block_given?
+    yield if block_given?
 
-# puts arr.push(1111)
+    puts "bye"
+end
 
-# puts arr.pop
+three_times() { puts "khobish kadi"}
 
-# puts arr.pop(2)
 
-# puts arr.shift 
 
-# puts arr[0]
-
-# puts arr
-
-# puts arr.sort!
-
-# puts arr
