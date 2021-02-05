@@ -6,3 +6,8 @@
 # b = 101
 # c= 99
 # d= 95
+
+def hi
+    puts "hello world"
+end
+ hi
